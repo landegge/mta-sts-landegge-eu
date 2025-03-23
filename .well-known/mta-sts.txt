@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: landegge-eu.a-v1.mx.microsoft
+max_age: 86401
