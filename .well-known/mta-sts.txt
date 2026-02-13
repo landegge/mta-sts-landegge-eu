@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: landegge-eu.a-v1.mx.microsoft
+mx: mx1.improvmx.com mx2.improvmx.com
 max_age: 86401
